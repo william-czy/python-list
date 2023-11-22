@@ -12,4 +12,3 @@ print("list.remove - there are {} fruits, they are: {}".format(len(fruits), frui
 
 fruits.sort()
 print("list.sort   - there are {} fruits, they are: {}".format(len(fruits), fruits))
-

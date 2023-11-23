@@ -8,6 +8,7 @@
 - pop
 - sort
 - reverse
+- count
 - clear
 
 ## 代码输出
@@ -20,5 +21,6 @@ list.remove  - there are 4 fruits, they are: ['banana', 'watermelon', 'apple', '
 list.pop(1)  - there are 3 fruits, they are: ['banana', 'apple', 'orange']
 list.sort    - there are 3 fruits, they are: ['apple', 'banana', 'orange']
 list.reverse - there are 3 fruits, they are: ['orange', 'banana', 'apple']
+list.count   - there are 1 apples, they are: ['orange', 'banana', 'apple']
 list.clear   - there are 0 fruits, they are: []
 ```

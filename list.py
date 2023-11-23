@@ -19,5 +19,8 @@ print("list.sort    - there are {} fruits, they are: {}".format(len(fruits), fru
 fruits.reverse()
 print("list.reverse - there are {} fruits, they are: {}".format(len(fruits), fruits))
 
+fruits.count("apple")
+print("list.count   - there are {} apples, they are: {}".format(fruits.count("apple"), fruits))
+
 fruits.clear()
 print("list.clear   - there are {} fruits, they are: {}".format(len(fruits), fruits))
